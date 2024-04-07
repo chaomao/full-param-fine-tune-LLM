@@ -6,3 +6,7 @@
 * gpu A800 * 3
 
 
+
+
+https://github.com/chaomao/full-param-fine-tune-LLM/assets/817897/b9270c8c-fa5b-4a2a-9964-70f87da49f08
+
